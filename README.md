@@ -1,8 +1,8 @@
-<h2 align="center">주니어 프론트엔드 개발자 고은영입니다 👋</h2>
+<h2 align="center">안녕하세요! 프론트엔드 웹 개발자 고은영입니다. 👋</h2>
 
 <div align="center">
   
-<strong>📚 Language </strong> <br> <br>
+<strong>📚 Languages </strong> <br> <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
